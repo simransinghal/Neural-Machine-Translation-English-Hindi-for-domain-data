@@ -1,14 +1,13 @@
 # Neural-Machine-Translation
-NLP Application Project
+  Intuit Codewar
 
-
-2.2.3 Build an NMT (Neural MT) system when training data (parallel sentences in the concerned source and target language) is available in a domain. However, such domain data is of small size. Machine learning is to be used in such a way that the small sized domain data can be combined with the large amount of general data.
+Build an NMT (Neural MT) system when training data (parallel sentences in the concerned source and target language) is available in a domain. However, such domain data is of small size. Machine learning is to be used in such a way that the small sized domain data can be combined with the large amount of general data.
 
 Contributor:
-1) Arushi Singhal 201516178
-2) Simran Singhal 201516190
-
-Report:- https://docs.google.com/document/d/1n1o2qPxLaCnB0E83i_ZiPZCA_8fN_uMCrQ-CQCzlql4/edit?usp=sharing
+1) Arushi Singhal
+2) Simran Singhal
+3) Pujitha E
+4) Srishti
 
 # References
 1) https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html (main)
@@ -37,37 +36,5 @@ Report:- https://docs.google.com/document/d/1n1o2qPxLaCnB0E83i_ZiPZCA_8fN_uMCrQ-
 24) https://github.com/A-Jacobson/minimal-nmt/blob/master/nmt_tutorial.ipynb (Important)
 25) https://medium.com/@martinpella/how-to-use-pre-trained-word-embeddings-in-pytorch-71ca59249f76 (GloVe in pytorch)
 
-# Hindi text Normalization
-
-1) http://talukdar.net/papers/KBCS04_HPL-1.pdf
-2) https://medium.com/lingvo-masino/do-you-know-about-text-normalization-a19fe3090694
-
-# The IIT Bombay English-Hindi Parallel Corpus
-https://www.cse.iitb.ac.in/~pb/papers/lrec18-iitbparallel.pdf
-
 # Dataset Link
 http://10.3.1.91/~datashare/wat/
-
-# Document Link to the Errors found in the Dataset
-https://docs.google.com/document/d/1zz67TTlVi0YuH7zUjD3up4O_7qKd8lCtElhxcH1bMWk/edit
-
-# Data Generator
-https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
-
-# Pytorch Neural Network Colab link got through flow group
-https://colab.research.google.com/drive/1DgkVmi6GksWOByhYVQpyUB4Rk3PUq0Cp?fbclid=IwAR076PTAKeD99mN-htpMxCY4FaJNadF_OfCNry02rBwwixadJ-n1rygnW7I#scrollTo=6Q1AhoIB-pkp
-
-# Anaconda installation
-https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
-
-# Multiple GPUs
-https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/
-
-# Make the batches such that 1 of health and 2 of tourism.
-# Show the results of whatever all you implemented. (100 from each)
-# Hiramnai shared code
-# Coverage Model Links
-
-1) https://github.com/ZhenYangIACAS/NMT
-2) https://github.com/tuzhaopeng/nmt
-3) https://paperswithcode.com/paper/modeling-coverage-for-neural-machine#code
